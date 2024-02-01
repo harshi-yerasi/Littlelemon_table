@@ -1,0 +1,22 @@
+{
+    "name": "meta-front-end-developer-coursera",
+    "version": "1.0.0",
+    "description": "![master_head](/master_head.png)",
+    "main": "/",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/harshi-yerasi/Littlelemon_table/upload"
+    },
+    "author": "HA,
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/harshi-yerasi/Littlelemon_table/upload"
+    },
+    "homepage": "https://github.com/harshi-yerasi/Littlelemon_table/upload",
+    "dependencies": {
+        "jest": "^28.1.3"
+    }
+}
